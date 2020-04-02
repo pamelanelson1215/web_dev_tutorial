@@ -1,0 +1,68 @@
+/* CSS Document */
+#myBio {
+	background-color: black;
+	color: white;
+	border-radius: 20px;
+	width:1300px;
+    margin:1.5rem auto;
+	box-shadow:5px 5px 5px #333333;
+}
+
+#artifacts {
+	background-color: black;
+	color: white;
+	border-radius: 20px;
+	width:1300px;
+    margin:1.5rem auto;
+	box-shadow:5px 5px 5px #333333;
+}
+
+#artifacts h1{
+	padding-left: 20px;
+}
+
+#artifacts h2{
+	padding-left: 20px;
+}
+
+#artifacts p{
+	padding-left: 20px;
+	padding-bottom: 20px;
+}
+
+#artifacts div{
+	padding-left: 20px;
+	padding-bottom: 20px;
+}
+
+#myBio h1{
+	padding-left: 20px;
+}
+
+#myBio h2{
+	padding-left: 20px;
+}
+
+#myBio p{
+	padding-left: 20px;
+	padding-bottom: 20px;
+}
+
+.resizePhoto{
+	width: 250px;
+	height: 300px;
+	padding-top: 20px;
+	padding-left: 20px;
+}
+
+#headerCustom{
+	background-color: #750857;
+}
+
+#body{
+	background-color: #FAB8E8;
+}
+
+.appDoc {
+	background-color: white;
+}
